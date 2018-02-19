@@ -3,8 +3,7 @@
 - Get a new-ish version of ruby. You can use the first part of this guide to install rbenv, which allows to run a newer version of ruby side-by-side with the older version that came with Linux. https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-16-04 Just follow their explanation until you hit the "Working with Gems" section. </br>
 
 - After that, you can install "bundler" and "jekyll" via the gem system. 'gem install bundler jekyll' </br>
-
-"	For more info on this, check out: http://bundler.io/ and https://jekyllrb.com/docs/installation/
+For more info on this, check out: http://bundler.io/ and https://jekyllrb.com/docs/installation/ </br>
 
 ### Create a new project:
 
