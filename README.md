@@ -16,7 +16,7 @@ To decide what Jekyll theme would suit the website, please visit http://jekyllth
 
 ## Content for Website:
 
-Please feel free to share your ideas here or at our Slack channel www.rsg-sweden.slack.com
+Please use Github's "issue" feature to discuss ideas.
 
 - About Page (brief description with photos of core committee members, and names + institutions of sub-committee members)
 - Events Page
