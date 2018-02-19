@@ -10,7 +10,17 @@ http://www.cbiovikings.org </br>
 http://www.rsg-belgium.iscbsc.org </br>
 http://slaveryfootprint.org/ (replace arms/hands with DNA strings?) </br>
 
-We could utilise either Jekyll (www.jekyllrb.com) or Twitter Bootstrap for theme/designing.
+We could utilise either Jekyll (www.jekyllrb.com) or Twitter Bootstrap for theme/designing. </br>
 
-SFTP user credentials to the webspace for rsg-sweden.iscbsc.org </br>
-User/Pass: dh_zded5i/N2VT3nKS </br>
+To decide what Jekyll theme would suit the website, please visit http://jekyllthemes.org/
+
+## Content for Website:
+
+Please feel free to share your ideas here or at our Slack channel www.rsg-sweden.slack.com
+
+- About Page (brief description with photos of core committee members, and names + institutions of sub-committee members)
+- Events Page
+- Contact information on bottom of every page with links to social media, website, and Slack Channel (we will use icons rather than lengthy text).
+
+
+
