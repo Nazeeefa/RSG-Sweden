@@ -1,6 +1,6 @@
 # RSG-Sweden
 
-This is a repository for the [RSG-Sweden's website(rsg-sweden.iscbsc.org)] development. </br>
+This is a repository for the [RSG-Sweden's website](https://rsg-sweden.iscbsc.org) development.
 
 ### Uploading site data using ftp
 1. Download cyberduck from https://cyberduck.io/
