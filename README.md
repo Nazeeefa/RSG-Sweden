@@ -10,6 +10,6 @@ This is a repository for the [RSG-Sweden's website](http://rsg-sweden.iscbsc.org
 5. Enter credentials (username, password) and connect.
 6. Drag and drop the files from your local directory to replace the existing files on the server.
 
-Useful Links: </br>
+### Useful Links: </br>
 
 Using a custom domain name with Github pages https://help.github.com/articles/using-a-custom-domain-with-github-pages/
