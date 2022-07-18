@@ -7,7 +7,7 @@ This is a repository for the [RSG-Sweden's website](http://rsg-sweden.iscbsc.org
 1. Download cyberduck from https://cyberduck.io/
 2. Click on New connection.
 3. Select SFTP
-4. Server: rsg-nordics.iscbsc.org
+4. Server: rsg-sweden.iscbsc.org
 5. Enter credentials (username, password) and connect.
 6. Drag and drop the files from your local Github directory to replace the existing files on the server.
 7. Make sure all updates are synced on Github and Cyberduck's storage.
